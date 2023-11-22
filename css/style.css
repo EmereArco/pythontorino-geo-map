@@ -1,0 +1,49 @@
+html {
+	font-family: sans-serif;
+	margin:0;
+	padding:0;
+	}
+
+#header
+{
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 40px;
+	background: #007D1C;
+	color: white;
+	text-align: center;
+	font-size: 180%;
+}
+
+#header p {
+	margin: 0px;
+	margin-top: 5px;
+}
+
+#map
+{
+	position: absolute; 
+	top: 40px;
+	left: 0px;
+	right: 0px;
+	bottom: 46px;
+	background: #F5F3EE;
+}
+
+#footer
+{
+	position: absolute; 
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	height: 36px;
+	background: #007D1C;
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	padding: 5px;
+	margin: 0;
+}
+
